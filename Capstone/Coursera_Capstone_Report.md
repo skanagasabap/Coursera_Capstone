@@ -28,7 +28,8 @@ BR1 4BY	Yes	51.417289	-0.001741	539050	170591	TQ390705	Downham	Lewisham, unparis
 </li>
 </ul>
 
-<p><a target="_blank" rel="noopener noreferrer" href="/skanagasabap/Coursera_Capstone/blob/master/Capstone/Clusters_FH.png"><img src="/skanagasabap/Coursera_Capstone/raw/master/Capstone/Clusters_FH.png" alt="Clusters_FH" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/skanagasabap/Coursera_Capstone/blob/master/Capstone/Clusters_FH.png"><img src="/skanagasabap/Coursera_Capstone/blob/master/Capstone/Clusters_FH.png" alt="Clusters_FH" style="max-width:100%;"></a></p>
+
 
 <p>Since our objective is to ease the search for  people who have preferences in terms of nearby venues, I tried to explore all the sectors under Forest Hill ward using Four square API and obtained multiple venues names, their geographical coordinates and category for each sector within 500m radius and put a limit on the number of venues as 100 for each sector.</p>
 <p>From four square API, I obtained 46 different venue categories like Café, Pubs, Public transport, Park, Nature Reserve, Vintage stores etc.</p>
